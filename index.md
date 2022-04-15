@@ -26,7 +26,7 @@ Link to zoom live sessions and recordings of the live sessions will be available
 * On your own: One-way ANOVA (**[video 53 mins]( https://youtu.be/iizDxDvx5Uk)**, **[slides](/slides/4_OneWayANOVA.pdf)** pages 1-44)
 * On your own: Multiple comparisons and two-way ANOVA -- Part 1 (**[video 47 mins](https://youtu.be/y4C8eFH8dto)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 45-68)
 * On your own: Multiple comparisons and two-way ANOVA -- Part 2 (**[video 42 mins](https://youtu.be/4VcdwE7Olfk)**, **[slides](/slides/5_MultipleComparisons_TwoWayANOVA.pdf)** pages 68-93)
-* Live session 1:15 -- 2:00pm PT: Questions and lab exercises 9--12  (**[labs](/slides/2022_SISG_5_Labs.pdf)**, **[solutions](/slides/2022_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2022_SISG_5_Labs_Code.R)**)
+* Live session 1:15 -- 2:30pm PT: Questions and lab exercises 9--12  (**[labs](/slides/2022_SISG_5_Labs.pdf)**, **[solutions](/slides/2022_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2022_SISG_5_Labs_Code.R)**)
 
 **Friday 7/15**
 * On your own: Logistic regression and generalized linear models -- Part 1 (**[video 45 mins](https://youtu.be/h12mvtkqj3c)**, **[slides](/slides/6_LogisticRegression.pdf)** pages 1-30)
