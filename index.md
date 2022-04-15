@@ -12,7 +12,7 @@ Link to zoom live sessions and recordings of the live sessions will be available
 ### Schedule
 
 **Wednesday 7/13**
-* On your own: Simple Linear Regression -- Part 1 (**[video](https://youtu.be/Hrbx_6zkxzw)** 40 mins, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
+* On your own: Simple Linear Regression -- Part 1 (**[video (40 mins)](https://youtu.be/Hrbx_6zkxzw)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 1-32)
 * On your own: Simple Linear Regression -- Part 2 (**[video](https://youtu.be/vqfW5-ts9_U)**, **[slides](/slides/1_SimpleLinearRegression.pdf)** pages 32-58)
 * Live session 10:15 -- 11:30am PT: Questions and lab exercises 1--3  (**[labs](/slides/2022_SISG_5_Labs.pdf)**, **[solutions](/slides/2022_SISG_5_Labs_Solutions.pdf)**, **[R codes](/slides/2022_SISG_5_Labs_Code.R)**)
 * On your own: Model checking -- Part 1 (**[video](https://youtu.be/ijHe7pmkcIQ)**, **[slides](/slides/2_ModelChecking.pdf)** pages 1-15)
