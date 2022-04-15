@@ -2,7 +2,7 @@
 #### Instructors: [Rebecca Hubbard, PhD](https://www.med.upenn.edu/ehr-stats) (she/her/hers) and [Xu Shi, PhD](https://www.xuritashi.com) (she/her/hers)
 
 ### Welcome
-[<img src="welcome.pdf" height="60%" width="60%">](https://youtu.be/pVWQI6F2TpA)
+[<img src="welcome.png" height="60%" width="60%">](https://youtu.be/pVWQI6F2TpA)
 
 ### Overview
 This module consists of a series of pre-recorded lectures that will introduce you to the basic concepts of regression for the analysis of associations between continuous or binary outcome variables and one or more predictor variables. Lectures are available for you to watch on your own and will be followed by interactive sessions in which we will go over any questions that you have and get hands-on experience applying these concepts to the analysis of data using R. Students are asked to **watch the recorded lectures in advance of live sessions and work through labs using R** (link to download **[R](https://cran.r-project.org/)** and **[RStudio](https://rstudio.com/products/rstudio/download/#download)**).
