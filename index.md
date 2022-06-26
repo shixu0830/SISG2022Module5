@@ -7,7 +7,7 @@
 ### Overview
 This module consists of a series of pre-recorded lectures that will introduce you to the basic concepts of regression for the analysis of associations between continuous or binary outcome variables and one or more predictor variables. Lectures are available for you to watch on your own and will be followed by interactive sessions in which we will go over any questions that you have and get hands-on experience applying these concepts to the analysis of data using R. Students are asked to **watch the recorded lectures in advance of live sessions and work through labs using R** (link to download **[R](https://cran.r-project.org/)** and **[RStudio](https://rstudio.com/products/rstudio/download/#download)**).
 
-Link to zoom live sessions and recordings of the live sessions will be available when you log in to the [SISG website](https://si.biostat.washington.edu/suminst/SISG2022/modules/SM2105), and will also be emailed to participants (subtitle: "Welcome to SISG Module 5") and posted on Slack. 
+Link to zoom live sessions and recordings of the live sessions will be available when you log in to the [SISG website](https://si.biostat.washington.edu/courses/SM2205), and will also be emailed to participants (subtitle: "Welcome to SISG Module 5") and posted on Slack. 
 
 ### Schedule
 
